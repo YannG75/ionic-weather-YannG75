@@ -111,7 +111,6 @@
                         break
                     case "Clear":
                         this.backgroundLink = summer
-                        console.log(this.backgroundLink)
                         break
                 }
             }
